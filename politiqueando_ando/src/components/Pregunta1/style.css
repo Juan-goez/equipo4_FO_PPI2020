@@ -1,0 +1,103 @@
+.TituloPregunta1{
+    margin-top: 60px;
+    text-align: center;
+    height: 110px;
+    color: black;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px;
+    
+}
+.ParrafoPregunta1{
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    width: 50%;
+    margin: auto;
+
+  
+}
+.ParrafoP{
+    text-align: center;
+   
+}.ImagenUsuario1{
+ width: 180px;
+ margin-top: 150px;
+ margin-right: 1000px;}
+
+.form-control{
+ height: 150px;
+ width: 500px;
+ margin-left: 400px;
+
+
+}.form-group{
+    margin-top: 50px;
+    
+}.form-group_1{
+    margin-top: 50px;
+    
+}.form-control_1{
+    height: 100px;
+    width: 50%;
+    margin-left: 250px;
+}
+
+
+.button_pregunta{
+    background-color: #87bbeb ;
+
+
+}.btn-warning_pregunta{
+    background-color: #87bbeb ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: -750px;
+    margin-top: -200px;
+
+}.Pregunta2{
+    margin-top: 500px;
+    width: 20%;
+    margin-left: 350px;
+}.Pregunta2-1{
+    width: 20%;
+    margin-left: 650px;
+    margin-top: -280px;
+}.card_Preguntas{
+    background-color:  #87bbeb;
+    height: 15%;
+    width: 70%;
+    margin-top: 100px;
+    margin-left: 150px;
+   
+}
+.card-text_OtraPregunta{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin: auto;
+    padding-left: 20px;
+   
+
+
+}.card-title_Preguntas{
+    padding-left: 15px;
+    padding-top: 20px;
+
+    
+}.TituloPreguntas{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px;
+     text-align: center;
+     margin-top: 80px;
+}.FotoDePerfil{
+    width: 15%;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.btn-warning_pregunta_2{
+ background-color:  #ffbd59;
+ margin-left: 950px;
+ margin-top: -100px;
+ font-family: Arial, Helvetica, sans-serif;
+}
