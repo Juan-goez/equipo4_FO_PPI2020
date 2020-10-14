@@ -1,0 +1,45 @@
+
+.ForosTitulo{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+    font-family: Arial;
+    font-weight: bold;
+    
+    
+}
+.card_Foros-body{
+ height: 130px;
+ width: 500px;
+ background-color:  #87bbeb;
+ border-radius: 10px;
+
+}
+.card-text_Foros{
+    text-align: center;
+  font-size: 24px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+nav{
+        background-color: #ffbd59;
+        height: 90px;
+        color: black;
+        width: 100%;
+    }
+    
+    .logo{
+        margin-top: 10px;
+        margin-left: 30px;
+    }
+    
+    .elements{
+        margin-top: 10px;
+        color: black;
+        font-size: 15px;
+        margin-left: 40px;
+    }
+    
+    .elements__1{
+        margin-left: 600px;
+    }
+
