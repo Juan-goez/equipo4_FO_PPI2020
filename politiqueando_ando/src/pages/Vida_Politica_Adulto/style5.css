@@ -16,7 +16,9 @@
     font-size: 15px;
     margin-left: 40px;
 }
-
+.nav-item{
+    margin-top: -80px;
+}
 
 .elements__1{
     margin-left:  700px ;
