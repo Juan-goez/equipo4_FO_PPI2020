@@ -19,7 +19,11 @@ function Navegacion(){
             <Route exact path="/Ideologias/mapas/mapa2/mapa3/foros" component={Foros}/>
             <Route exact path="/Ideologias/mapas/mapa2/mapa3/foros/pregunta1" component={Pregunta1}/>
              <Route exact path="/Ideologias/mapas/mapa2/mapa3" component={Mapa3}/>
-            
+           <Route exact path=" /foros/Ideologias/" component={Ideologias}/>
+           <Route exact path="/Ideologias/mapas/mapa2/Ideologias" component={Ideologias}/>
+           <Route exact path="/Ideologias/mapas/mapa2/mapa3/foros/Ideologias" component={Ideologias}/>
+           <Route exact path="/Ideologias/mapas/mapa2/mapa3/foros/pregunta1/Ideologias" component={Ideologias}/>
+          
            
 
         </Switch>

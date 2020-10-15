@@ -19,6 +19,9 @@ class Menu extends React.Component {
                 <li class="nav-item">
                     <a class="elements nav-link" href="#">Ideologías políticas</a>
                 </li>
+              
+
+
                 <li class="nav-item dropdown">
                     <a class="elements nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Voto
