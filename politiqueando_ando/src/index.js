@@ -4,6 +4,8 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Aplicacion from './Aplicacion';
 import Introduccion from './introduccion.jsx';
+import Registro from './Pages/Registro.jsx';
+
 
 ReactDOM.render(
   <React.StrictMode>
@@ -18,3 +20,10 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );*/
+
+/*ReactDOM.render(
+  <React.StrictMode>
+    <Registro/>
+  </React.StrictMode>,
+  document.getElementById('root')
+)*/
