@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Menu from "../../../equipo4_FO_PPI2020/politiqueando_ando/src/components/pages/Mapas/Menu"
-import ContenidoMapas from "../../../equipo4_FO_PPI2020/politiqueando_ando/src/components/pages/Mapas/ContenidoMapas"
+import Menu from "../components/Mapas/Menu"
+import ContenidoMapas from "../components/Mapas/ContenidoMapas"
 
 function Mapas () {
     return (

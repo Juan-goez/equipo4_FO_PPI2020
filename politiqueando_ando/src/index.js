@@ -1,14 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './Ideologias';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Mapas from "./Mapas";
-import Mapa2 from "./Mapa2.jsx";
-import Mapa3 from "./Mapa3";
-import Foros from "./Foros"
-import Navegacion from "./Navegacion";
-import Pregunta1 from "./Pregunta1";
+/*import App from './components/Ideologias.jsx';
+import Mapas from "./components/Mapas.jsx";
+import Mapa2 from "./components/Mapa2.jsx";
+import Mapa3 from "./components/Mapa3.jsx";
+import Pregunta1 from "./components/Pregunta1.jsx";
+import Foros from "./components/Foros.jsx"; */
+import Navegacion from "./components/Navegacion";
+
 
 /*ReactDOM.render(
   <React.StrictMode>

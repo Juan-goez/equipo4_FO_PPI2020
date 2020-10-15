@@ -1,11 +1,12 @@
 import React from "react";
 import {BrowserRouter, Switch, Route} from "react-router-dom";
-import Mapas from "./Mapas";
-import Mapa2 from "./Mapa2";
-import Mapa3 from "./Mapa3"
-import Foros from "./Foros";
-import Pregunta1 from "../../../React_PPI/react_ppi/src/Pregunta1";
-import Ideologias from "./Ideologias";
+
+import Mapas from "../components/Mapas";
+import Mapa2 from "../components/Mapa2";
+import Mapa3 from "../components/Mapa3"
+import Foros from "../components/Foros";
+import Pregunta1 from "../components/Pregunta1";
+import Ideologias from "../components/Ideologias";
 
 function Navegacion(){
     return(

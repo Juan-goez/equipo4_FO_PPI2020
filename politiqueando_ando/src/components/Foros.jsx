@@ -1,8 +1,7 @@
 import React from 'react';
-import './App.css';
-import Menu from "./components/pages/Foros/Menu"
-import TituloForos from "./components/pages/Foros/TituloForos"
-import ContenidoForos from "./components/pages/Foros/ContenidoForos";
+import Menu from "../components/Foros/Menu"
+import TituloForos from "../components/Foros/TituloForos"
+import ContenidoForos from "../components/Foros/ContenidoForos";
 function Foros() {
   return (
     <div>
