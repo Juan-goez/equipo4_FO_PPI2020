@@ -85,4 +85,16 @@
     text-align: center;
     
 }
-
+.forosboton{
+    font-size: 20px;
+    
+}.btn-warning_forosboton{
+    background-color: #ffbd59;
+}
+.btn-warning_mapaboton{
+    background-color: #ffbd59;
+    
+}
+.mapasboton{
+    font-size: 20px;
+}

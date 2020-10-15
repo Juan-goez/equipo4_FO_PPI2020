@@ -25,11 +25,11 @@ class Contenido extends React.Component{
         
             
                <div className="Boton_1">
-               <Link to="/Ideologias/mapas" className="Boton1"><button type="button" className="btn btn-warning">MAPA</button></Link>
+               <Link to="/Ideologias/mapas" className="Boton1"><button type="button" className="btn btn-warning_mapaboton"><h1 className="mapasboton">MAPA</h1></button></Link>
                </div>
                
                <div className="Boton_2">
-               <Link to="/Ideologias/foros" className="Boton1"><button type="button" className="btn btn-warning">FOROS</button></Link>
+               <Link to="/Ideologias/foros" className="Boton1"><button type="button" className="btn btn-warning_forosboton"><h1 className="forosboton">FOROS</h1></button></Link>
                </div>
                
                <div>

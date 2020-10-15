@@ -15,7 +15,7 @@ class ContenidoPregunta1 extends React.Component {
                      </div>
                     </div>
                     <div>
-                    <button type="button_pregunta" className="btn btn-warning_pregunta">Publicar</button>
+                    <button type="button_pregunta" className="btn btn-warning_pregunta1"><p className="publicar">Publicar</p></button>
                     </div>
                     </div>
         );
