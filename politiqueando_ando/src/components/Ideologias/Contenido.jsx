@@ -32,9 +32,6 @@ class Contenido extends React.Component{
                <Link to="/Ideologias/foros" className="Boton1"><button type="button" className="btn btn-warning_forosboton"><h1 className="forosboton">FOROS</h1></button></Link>
                </div>
                
-               <div>
-                   <footer>Politiqueando Ando</footer>
-               </div>
                
                  
                  

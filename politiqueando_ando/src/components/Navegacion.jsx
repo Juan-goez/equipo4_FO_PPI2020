@@ -16,9 +16,11 @@ function Navegacion(){
             <Route exact path="/Ideologias/mapas" component={Mapas}/>
             <Route exact path="/Ideologias/foros" component={Foros}/>
             <Route exact path="/Ideologias/mapas/mapa2" component={Mapa2}/>
-            <Route exact path="/Ideologias/mapas/mapa2/mapa3" component={Mapa3}/>
             <Route exact path="/Ideologias/mapas/mapa2/mapa3/foros" component={Foros}/>
             <Route exact path="/Ideologias/mapas/mapa2/mapa3/foros/pregunta1" component={Pregunta1}/>
+             <Route exact path="/Ideologias/mapas/mapa2/mapa3" component={Mapa3}/>
+            
+           
 
         </Switch>
         </BrowserRouter>

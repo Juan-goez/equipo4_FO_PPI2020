@@ -1,10 +1,12 @@
 
 .ForosTitulo{
+    margin-top: 60px;
     text-align: center;
-    margin-top: 50px;
-    font-size: 60px;
-    font-family: Arial;
-    font-weight: bold;
+    height: 110px;
+    color: black;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 60px;
     
     
 }
@@ -18,7 +20,7 @@
 .card-text_Foros{
     color: black;
     text-align: center;
-  font-size: 24px;
+  font-size: 20px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 nav{
@@ -43,4 +45,3 @@ nav{
     .elements__1{
         margin-left: 600px;
     }
-

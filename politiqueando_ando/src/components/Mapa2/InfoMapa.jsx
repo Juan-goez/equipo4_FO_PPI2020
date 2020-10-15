@@ -31,7 +31,7 @@ políticos liberales y conservadores rechazaron medidas que consideraban exagera
                     </div>
                 </div>
                 <div STYLE="position:absolute; top:700px; left:900px;  visibility:visible  z-index:1">
-                <Link to="/Ideologias/mapas/mapa2/mapa3" className="Flecha"><img classsName="Flecha" src="https://i.ibb.co/wWv2GKF/Flecha.png" width="200px" alt="" /></Link>
+                <Link to="/Ideologias/mapas/mapa2/mapa3" className="Flecha"><img classsName="Flecha" src="https://i.ibb.co/wWv2GKF/Flecha.png" width="200px" alt=""/></Link>
 
                        
 
