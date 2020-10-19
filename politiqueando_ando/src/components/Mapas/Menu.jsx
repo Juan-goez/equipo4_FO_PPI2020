@@ -17,8 +17,8 @@ class Menu extends React.Component{
                     <a class="elements elements__1 nav-link" href="#">Vida política<span class="sr-only">(current)</span></a>
                 </li>
 
-                <Link to="/Ideologias/mapas/Ideologias" className="siguiente"> <li class="nav-item">
-                <a class="elements nav-link" href="#">Ideologías políticas</a>  </li> </Link>
+                {/* <Link to="/Ideologias/mapas/Ideologias" className="siguiente"> <li class="nav-item">
+                <a class="elements nav-link" href="#">Ideologías políticas</a>  </li> </Link> */}
 
                 <li class="nav-item dropdown">
                     <a class="elements nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
