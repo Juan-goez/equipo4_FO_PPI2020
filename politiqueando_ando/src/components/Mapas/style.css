@@ -1,0 +1,21 @@
+.ImagenMapa{
+    text-align: center;
+    width: 900px;
+}
+.MapaBandera{
+    margin-top: 90px;
+    text-align: center;
+}
+.card{
+    width: 250px;
+    background-color: #87bbeb ;
+    color: black;
+}
+.card-title_Mapas{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-text_Mapas{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}

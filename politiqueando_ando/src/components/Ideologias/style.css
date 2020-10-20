@@ -1,0 +1,100 @@
+
+.navbar-expand-lg{
+    background-color:  #ffbd59;
+    height: 120px;
+    color: black;
+    width: 100%;
+    
+}
+
+.texto{
+    color: black;
+     margin-left: 30px;
+}
+
+.logo{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.Titulo{
+    margin-top: 60px;
+    text-align: center;
+    height: 110px;
+    color: black;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px;
+    
+   
+   
+
+}
+.parrafoideologias{
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    color: black;
+    
+}
+.Boton_1{
+   text-align: center;
+   margin-top: 50px;
+   margin-left: 120px;
+   
+   
+}
+.Boton_2{
+   text-align: center;
+   margin-top: -60px;
+   margin-left: -80px;
+   
+   
+}.logo{
+    margin-top: 0px;
+    width: 80px;
+    height: 100px;
+    font-weight: bold;
+    
+}
+.card_Ideologias-body{
+    width: 300px;
+    height: 200px;
+    background-color:  #87bbeb;
+    border-radius: 5px;
+    
+}
+.card-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    margin: 10px;
+}
+.btn{
+ height: 60px;;
+ width: 80px;
+ font-size: 100px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.parrafo{
+    text-align: center;
+}.imagenesideologias{
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.forosboton{
+    font-size: 20px;
+    
+}.btn-warning_forosboton{
+    background-color: #ffbd59;
+}
+.btn-warning_mapaboton{
+    background-color: #ffbd59;
+    
+}
+.mapasboton{
+    font-size: 20px;
+}

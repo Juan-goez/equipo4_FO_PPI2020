@@ -1,8 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Nav from './Pages/NoDeberHacer/Nav';
-import Titulo from './Pages/NoDeberHacer/Titulo';
-import Cards from './Pages/NoDeberHacer/cards';
+import Nav from './NoDeberHacer/Nav';
+import Titulo from './NoDeberHacer/Titulo';
+import Cards from './NoDeberHacer/cards';
 
 
 

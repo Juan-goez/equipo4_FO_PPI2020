@@ -1,8 +1,8 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Nav from './Pages/DeberHacer/Nav';
-import Cards from './Pages/DeberHacer/Cards';
-import Titulo from './Pages/DeberHacer/Titulo';
+import Nav from './DeberHacer/Nav';
+import Cards from './DeberHacer/Cards';
+import Titulo from './DeberHacer/Titulo';
 
 
 function DeberHacer() {

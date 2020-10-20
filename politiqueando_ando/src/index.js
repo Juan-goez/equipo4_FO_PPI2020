@@ -1,29 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.min.css';
+//import Vida_Politica from './pages/vistas/Vida_Politica';
 import Aplicacion from './Aplicacion';
-import Introduccion from './introduccion.jsx';
-import Registro from './Pages/Registro.jsx';
-
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Aplicacion/>
+  <React.StrictMode>   
+     < Aplicacion/>
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-/*ReactDOM.render(
-  <React.StrictMode>
-    <Introduccion/>
-  </React.StrictMode>,
-  document.getElementById('root')
-);*/
-
-/*ReactDOM.render(
-  <React.StrictMode>
-    <Registro/>
-  </React.StrictMode>,
-  document.getElementById('root')
-)*/

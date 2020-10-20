@@ -1,0 +1,14 @@
+.card_1{
+    height: 80px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 230px;
+    border-radius: 0px;
+    background-color: #87bbeb ;
+}
+.card_2{
+    background-color: gainsboro;
+    height: 350px;
+    width: 400px;
+    border-radius: 2px;
+   
+}
