@@ -1,10 +1,10 @@
 import React from "react";
 import {BrowserRouter, Switch, Route} from "react-router-dom";
-import Pantalla1 from "../pages/Pantalla1";
-import Razones_V from "../pages/Razones_V";
-import Inicio_Sesion from "../pages/Inicio_Sesion";
-import Voto from "../pages/Voto";
-import Nosotros from "../pages/Nosotros";
+import Pantalla1 from "../pages1/Pantalla1";
+import Razones_V from "../pages1/Razones_V";
+import Inicio_Sesion from "../pages1/Inicio_Sesion";
+import Voto from "../pages1/Voto";
+import Nosotros from "../pages1/Nosotros";
 
 function Aplicacion (){
     return (
