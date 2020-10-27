@@ -1,0 +1,85 @@
+
+.form-groupp{
+    font-size:100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1500px;
+    text-align: center;
+    
+}
+
+
+.form-control{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    border:#fade60 4px solid;
+    height: 55%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.registro{
+    background-color: #87bbeb;
+    color: rgb(0, 0, 0);
+    width: 50%;
+    text-align: center;
+    height: 30px;
+}
+.btnr{
+    background-color: #87bbeb;
+    text-align: center;
+    width: 50%;
+    border:#89bff1 5px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+}
+.navbarr{
+    height: 15px;
+}
+.form-groupp{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    font-weight: bold;
+}
+.form-group{
+    color:black;
+    text-align: center;
+    margin-top: 50px;
+    width: 85%;
+    padding: 0 10rem 0 30rem !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.iconos{
+    text-align: center;
+    margin-top: 50px;
+    width: 100px;
+    margin-left: 50%;
+    
+}
+.navbar-expand-lg{
+    background-color:  #ffbd59;
+    height: 10px;
+    color: black;
+    width: 100%;
+}
+.texto{
+    color: black;
+    margin-left: 30px;
+}
+
+.registr{
+    text-align: center;
+    background-color: #87bbeb;
+    width: 50%;
+    border:#89bff1 5px solid;
+    font-family: Arial;
+    color: black;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 30%;
+
+}

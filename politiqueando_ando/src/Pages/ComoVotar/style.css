@@ -1,0 +1,123 @@
+.barrita{
+    background-color: #ffbd59;
+    height: 90px;
+    color: black;
+    width: 100%;
+}
+
+.logo{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.elements{
+    margin-top: -60px;
+    color: black;
+    font-size: 15px;
+    margin-left: 40px;
+}
+
+.elements__1{
+    margin-left: 1000px;
+}
+
+.comoVotar {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1500px;
+    text-align: center;
+    margin-top: 63px;
+    color:black;
+    margin-bottom: 30px;
+}
+
+.imagenVotar {
+    margin-top: 100px;
+    float: left;
+
+}
+
+.textocomoVotar {
+    float: right;
+    margin-top: 50px;
+    font-family: Arial;
+    color: black;
+    
+}
+.hacerlo{
+    color: black;
+    text-align: center;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin-bottom:80px;
+}
+.imagenVotar {
+    width: 100%;
+    margin: 20x auto;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.imagenVotar img.izquierda {
+    
+    margin-left: 10%;
+    margin-top: 80px;
+}
+
+.text-break {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.izquierda {
+    position: absolute;
+    top: 290px;
+}
+.intrucciones{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin-top: 35%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+}
+
+
+.intruccioness{
+    margin-top: 30px;
+    text-align: center;
+    color: black;
+    margin-bottom: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.btn{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    width: 40%;
+    margin-top: 20px;
+    height: 60px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    background-color: #87bbeb;
+    
+}
+.btn:hover{
+    background-color: #4795df;
+    color: white
+}
+.opcionesIntrucciones{
+    text-align: center;
+    margin-top: 50px;
+}
+.text{
+    text-align: center;
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
